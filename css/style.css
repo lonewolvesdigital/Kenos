@@ -4390,7 +4390,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 /** @section Preloader */
-.preloader {
+/**.preloader {
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -4440,7 +4440,7 @@ html:not(.lt-ie10) .not-animated {
 	100% {
 		transform: rotate(360deg);
 	}
-}
+}*/
 
 /** @section ToTop */
 .ui-to-top {
